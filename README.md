@@ -107,5 +107,6 @@ streamlit
 joblib
 
 Install them using:
-
+```bash
 pip install -r requirements.txt
+```
