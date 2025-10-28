@@ -40,16 +40,23 @@ AmazonSalesPrediction/
 ```bash
 git clone https://github.com/your-username/AmazonSalesPrediction.git
 cd AmazonSalesPrediction
+```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Train the model (if not already trained)
+```bash
 python model_training.py
+```
 
 
 ### 4. Run the Streamlit app
+```bash
 streamlit run app.py
+```
 
 ### 5. Open in browser
 
